@@ -5,20 +5,20 @@ to get idea -(https://youtu.be/abqUMxj-1WI?si=yS3m6AbnimlhUvYT)
 ### Task 1:(simulation in pc)
  - -1 Get Better Laptop
     * for now choosed-(appx Rs. 1L) | HDFC Loan 81k (2k/5yr[60m])+ 20k slice(2k/12m)
-        Lenovo LOQ 2024, 
-        Intel Core i5-13450HX, 
-        13th Gen, 
-        NVIDIA RTX 4050-6GB, 
-        16GB RAM, 
-        512GB SSD, 
-        FHD 144Hz, 
-        15.6"/39.6cm, 
-        Windows 11, 
-        Office Home 2024, 
-        Grey, 
-        2.4Kg, 
-        83DV018JIN, 
-        1Yr ADP Free Gaming Laptop
+        - Lenovo LOQ 2024, 
+        - Intel Core i5-13450HX, 
+        - 13th Gen, 
+        - NVIDIA RTX 4050-6GB, 
+        - 16GB RAM, 
+        - 512GB SSD, 
+        - FHD 144Hz, 
+        - 15.6"/39.6cm, 
+        - Windows 11, 
+        - Office Home 2024, 
+        - Grey, 
+        - 2.4Kg, 
+        - 83DV018JIN, 
+        - 1Yr ADP Free Gaming Laptop
 
 
  0) Run the main.py file
